@@ -3,7 +3,7 @@ import { createSlice } from '@reduxjs/toolkit';
 const musicSlice = createSlice({
     name: 'music',
     initialState: {
-        musicname: "醉赤壁",
+        musicname: "music",
         musicimg: "#",
         musicdata: []
     },
