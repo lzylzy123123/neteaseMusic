@@ -1,3 +1,7 @@
+该项目实现了网易云音乐移动端的部分功能，使用react,redux @toolkit,react-router-dom,
+less等技术编写
+api接口:https://github.com/Binaryify/NeteaseCloudMusicApi
+以下为默认内容
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
